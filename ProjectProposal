@@ -19,7 +19,9 @@ Main Goal/ Results of the project:
 Problem Definition:
 	In the associated research paper it is stated that changing the input image pixel's colour coherently 
 	in the RGB space is not feasible as all three channels are hightly correlated. So they used a different space 
-	called lAlphaBetaSpace( which is almost orthogonal) where they match some statistical parameters between input and target images, after that apply the inverse transformation to get back the trasformed input image in RGB color space. 
+	called lAlphaBetaSpace( which is almost orthogonal) where they match some statistical parameters between input and 
+	target images, after that apply the inverse transformation to get back the trasformed input image in RGB color
+	space. 
 	
 Project milestones and expected Timeline:	
 	Not decided yet, since some parts of assoicated research paper is not clear to us. 
