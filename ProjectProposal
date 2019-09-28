@@ -11,12 +11,13 @@ Team Members:
 	KARNATI VENKATA KARTHEEK
 	ARUN KUMAR SUBRAMANIAM
 
-Main Goal Of The Project:
-	Show the color transfer between the images
+Main Goal/Problem definition/ Results of the project:
+	Given an input(generally synthetic image) and target images(photograph), 
+	transfer the color from target image to input image so that input image looks real.
+	In the associated research paper the 
+	
+Project milestones and expected Timeline:	
+	Not decided yet, since some parts of assoicated research paper is not clear to us. Once we are clear about this we will update
+	this section and also others parts of proposal if needed.
 
-Problem definition:
-	Given an input and target images, transfer the color from target image to input image and then display the image.
 
-Results of the project:
-
-Project milestones and expected Timeline:
