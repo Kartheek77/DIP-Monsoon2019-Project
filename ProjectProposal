@@ -17,9 +17,12 @@ Main Goal/ Results of the project:
 	Also exploration/comparison of 3 color spaces and its effect on the subject transformation.
 
 Problem Definition:
-	In the associated research paper it is stated that changing the input image pixel's colour coherently in the RGB space is not feasible as all three channels are hightly correlated. So they used a different space called lAlphaBetaSpace( which is almost orthogonal) where they match some statistical parameters in this space between input and target images, after that apply the inverse transformation to get back the trasformed input image in RGB color space. 
+	In the associated research paper it is stated that changing the input image pixel's colour coherently 
+	in the RGB space is not feasible as all three channels are hightly correlated. So they used a different space 
+	called lAlphaBetaSpace( which is almost orthogonal) where they match some statistical parameters between input and target images, after that apply the inverse transformation to get back the trasformed input image in RGB color space. 
 	
 Project milestones and expected Timeline:	
-	Not decided yet, since some parts of assoicated research paper is not clear to us. Once we are clear about this we will update this section and also others parts of proposal based on recommendation of TA.
+	Not decided yet, since some parts of assoicated research paper is not clear to us. 
+	Once we are clear about this we will update this section and also others parts of proposal based on recommendation of TA.
 
 
