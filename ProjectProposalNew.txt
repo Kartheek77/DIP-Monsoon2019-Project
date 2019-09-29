@@ -1,0 +1,26 @@
+Project ID:
+	39 
+
+Title:
+	Underwater Image Enhancement Based on the Contrast Adjustment via Differential Evolution Algorithm
+
+Github link:
+	https://github.com/Kartheek77/DIP_Project
+
+Team Members:
+	KARNATI VENKATA KARTHEEK 2018801010
+	ARUN KUMAR SUBRAMANIAM   
+
+Main Goal/Results of the project:
+	Underwater Image Enhancement.
+
+Problem Definition:
+  Due to the absorption and scattering of light in underwater environment,underwater images have poor contrast and resolution.
+  In the associated research paper they are trying to enhance the image by contrast stretching each of RGB channels seperately.
+  The best parameters for this contrast stretching are determined using an optimization problem. Here in the paper it assumed 
+  that the sum of image entropy and avergae gradient should be maximum(objective function) for the clearer image. Thus the best 
+  parameters used in constrast stretching are those which maximize this sum. Here the optimization is done by using Differential
+  Evolution Algorithm. Final enhanced image is obtained after sharpening this image.
+	
+Project milestones and expected Timeline:	
+	Not decided yet.
