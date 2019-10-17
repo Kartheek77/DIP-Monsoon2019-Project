@@ -1,2 +1,2 @@
-# DIP_Project_Color_Transfer
-DIP_Project_Color_Transfer
+# DIP_Project
+DIP_Project
