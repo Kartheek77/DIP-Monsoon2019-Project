@@ -18,3 +18,20 @@ fobj(w,im):
     for i in range(0,256):
         NumberofPixelsPerIntensity[i] = np.sum(image==i)
     probDensity = NumberofPixelsPerIntensity/TotalNumberOfPixelsInImage
+    
+    #from w compute the lower and upper limits
+    lowerLimit = 0
+    upperLimit = 255
+    tempSum = 0
+    for i in range(0,256):
+        tempSum += probDensity[i]
+        if(tempSum>w):
+            lowerLimit = i
+            break
+    tempSum = 0
+    for i in range(0,256):
+        tempSum += probDensity[int(255-i)]
+        if(tempSum>w):
+            upperLimit = int(255-i)
+            break
+    
