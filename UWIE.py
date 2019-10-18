@@ -6,3 +6,7 @@ GivenImage = cv2.imread("SampleImage1.jpg")
 GivenImage = cv2.cvtColor(GivenImage, cv2.COLOR_BGR2RGB)
 plt.imshow(GivenImage)
 plt.show()
+
+RedChannel = GivenImage[:,:,0]
+GreenChannel = GivenImage[:,:,1]
+BlueChannel = GivenImage[:,:,2] 
