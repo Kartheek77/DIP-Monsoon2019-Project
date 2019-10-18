@@ -39,7 +39,13 @@ fobj(w,im):
     a = 0
     b = 255
     factor = ((b-a)/(upperLimit-lowerLimit))
-    transformedImage = np.round_(a+((im-lowerLimit)*factor))    
+    transformedImage = np.round_(a+((im-lowerLimit)*factor))
+    
+    #compute the histogram of transformed image
+    NumberofPixelsPerIntensity = np.zeros(256)
+    for i in range(0,256):
+        NumberofPixelsPerIntensity[i] = np.sum(transformedImage==i)
+    NewprobDensity = NumberofPixelsPerIntensity/TotalNumberOfPixelsInImage
     
     
     
