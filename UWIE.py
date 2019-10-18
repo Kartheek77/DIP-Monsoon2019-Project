@@ -47,5 +47,8 @@ fobj(w,im):
         NumberofPixelsPerIntensity[i] = np.sum(transformedImage==i)
     NewprobDensity = NumberofPixelsPerIntensity/TotalNumberOfPixelsInImage
     
+    #compute the entropy
+    entropy = -1*np.sum(NewprobDensity*np.log2(NewprobDensity))
+    
     
     
