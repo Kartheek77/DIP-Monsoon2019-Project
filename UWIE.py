@@ -35,3 +35,11 @@ fobj(w,im):
             upperLimit = int(255-i)
             break
     
+    #perform contrast stretching to map lower and upper limits to a and b
+    a = 0
+    b = 255
+    factor = ((b-a)/(upperLimit-lowerLimit))
+    transformedImage = np.round_(a+((im-lowerLimit)*factor))    
+    
+    
+    
