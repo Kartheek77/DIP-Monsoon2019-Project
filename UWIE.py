@@ -10,3 +10,11 @@ plt.show()
 RedChannel = GivenImage[:,:,0]
 GreenChannel = GivenImage[:,:,1]
 BlueChannel = GivenImage[:,:,2] 
+
+fobj(w,im):
+    #compute the histogram
+    TotalNumberOfPixelsInImage = (image.shape[0])*(image.shape[1]) 
+    NumberofPixelsPerIntensity = np.zeros(256)
+    for i in range(0,256):
+        NumberofPixelsPerIntensity[i] = np.sum(image==i)
+    probDensity = NumberofPixelsPerIntensity/TotalNumberOfPixelsInImage
