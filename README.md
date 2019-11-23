@@ -21,7 +21,7 @@
   `pip3 install -r requiremnts.txt`
  
  ## Usage   
- - Open MCSVM.ipynb for SMCSVM algorithm.
+ - Open UWIEf.ipynb for UWIE algorithm.
  - To create SMCSVM object use:   
    `clf = SMCSVM()`
  
