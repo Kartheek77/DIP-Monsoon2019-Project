@@ -1,0 +1,162 @@
+the bounds are 
+[(0.0, 0.1), (0.0, 0.1), (0.0, 0.1), (0.0, 127.0), (0.0, 127.0), (0.0, 127.0), (128.0, 255.0), (128.0, 255.0), (128.0, 255.0)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -12.2795
+differential_evolution step 2: f(x)= -12.3335
+differential_evolution step 3: f(x)= -12.3509
+differential_evolution step 4: f(x)= -12.3509
+differential_evolution step 5: f(x)= -12.3843
+differential_evolution step 6: f(x)= -12.4083
+differential_evolution step 7: f(x)= -12.4296
+differential_evolution step 8: f(x)= -12.4409
+differential_evolution step 9: f(x)= -12.4488
+differential_evolution step 10: f(x)= -12.5164
+differential_evolution step 11: f(x)= -12.5164
+differential_evolution step 12: f(x)= -12.545
+differential_evolution step 13: f(x)= -12.5684
+differential_evolution step 14: f(x)= -12.5684
+differential_evolution step 15: f(x)= -12.5684
+differential_evolution step 16: f(x)= -12.5684
+differential_evolution step 17: f(x)= -12.5684
+differential_evolution step 18: f(x)= -12.5684
+differential_evolution step 19: f(x)= -12.5684
+differential_evolution step 20: f(x)= -12.5684
+differential_evolution step 21: f(x)= -12.5684
+differential_evolution step 22: f(x)= -12.5749
+differential_evolution step 23: f(x)= -12.5749
+differential_evolution step 24: f(x)= -12.5749
+differential_evolution step 25: f(x)= -12.5749
+differential_evolution step 26: f(x)= -12.5753
+differential_evolution step 27: f(x)= -12.5753
+differential_evolution step 28: f(x)= -12.5753
+differential_evolution step 29: f(x)= -12.5753
+differential_evolution step 30: f(x)= -12.5753
+differential_evolution step 31: f(x)= -12.5754
+differential_evolution step 32: f(x)= -12.5754
+differential_evolution step 33: f(x)= -12.5754
+differential_evolution step 34: f(x)= -12.5754
+differential_evolution step 35: f(x)= -12.5754
+differential_evolution step 36: f(x)= -12.5754
+differential_evolution step 37: f(x)= -12.5754
+differential_evolution step 38: f(x)= -12.5754
+differential_evolution step 39: f(x)= -12.5754
+w ,lowerLimit, upperLimit are 0.09817379508628732 53 88
+w ,lowerLimit, upperLimit are 0.009876958223705386 64 188
+w ,lowerLimit, upperLimit are 0.009713418124878297 96 222
+the bounds are 
+[(0.0, 0.1), (0.0, 0.1), (0.0, 0.1), (0.0, 127.0), (0.0, 127.0), (0.0, 127.0), (128.0, 255.0), (128.0, 255.0), (128.0, 255.0)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -23.9288
+differential_evolution step 2: f(x)= -24.1957
+differential_evolution step 3: f(x)= -24.1957
+differential_evolution step 4: f(x)= -24.2197
+differential_evolution step 5: f(x)= -24.2197
+differential_evolution step 6: f(x)= -24.3203
+differential_evolution step 7: f(x)= -24.3422
+differential_evolution step 8: f(x)= -24.3422
+differential_evolution step 9: f(x)= -24.3486
+differential_evolution step 10: f(x)= -24.3758
+differential_evolution step 11: f(x)= -24.3758
+differential_evolution step 12: f(x)= -24.4099
+differential_evolution step 13: f(x)= -24.4099
+differential_evolution step 14: f(x)= -24.4099
+differential_evolution step 15: f(x)= -24.4411
+differential_evolution step 16: f(x)= -24.4411
+differential_evolution step 17: f(x)= -24.4548
+differential_evolution step 18: f(x)= -24.4548
+differential_evolution step 19: f(x)= -24.4548
+differential_evolution step 20: f(x)= -24.463
+differential_evolution step 21: f(x)= -24.4642
+differential_evolution step 22: f(x)= -24.4642
+differential_evolution step 23: f(x)= -24.4642
+differential_evolution step 24: f(x)= -24.4643
+differential_evolution step 25: f(x)= -24.4649
+differential_evolution step 26: f(x)= -24.4649
+differential_evolution step 27: f(x)= -24.4649
+differential_evolution step 28: f(x)= -24.4652
+differential_evolution step 29: f(x)= -24.4654
+differential_evolution step 30: f(x)= -24.4655
+w ,lowerLimit, upperLimit are 0.09864685544687249 81 152
+w ,lowerLimit, upperLimit are 0.045090508521991646 118 207
+w ,lowerLimit, upperLimit are 0.06395199549166221 103 168
+the bounds are 
+[(0.0, 0.1), (0.0, 0.1), (0.0, 0.1), (0.0, 127.0), (0.0, 127.0), (0.0, 127.0), (128.0, 255.0), (128.0, 255.0), (128.0, 255.0)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -19.1534
+differential_evolution step 2: f(x)= -19.1534
+differential_evolution step 3: f(x)= -19.4205
+differential_evolution step 4: f(x)= -19.4205
+differential_evolution step 5: f(x)= -19.4604
+differential_evolution step 6: f(x)= -19.4958
+differential_evolution step 7: f(x)= -19.4958
+differential_evolution step 8: f(x)= -19.5077
+differential_evolution step 9: f(x)= -19.5639
+differential_evolution step 10: f(x)= -19.5639
+differential_evolution step 11: f(x)= -19.6224
+differential_evolution step 12: f(x)= -19.6224
+differential_evolution step 13: f(x)= -19.6224
+differential_evolution step 14: f(x)= -19.6224
+differential_evolution step 15: f(x)= -19.6224
+differential_evolution step 16: f(x)= -19.6224
+differential_evolution step 17: f(x)= -19.6326
+differential_evolution step 18: f(x)= -19.6326
+differential_evolution step 19: f(x)= -19.6326
+differential_evolution step 20: f(x)= -19.6815
+differential_evolution step 21: f(x)= -19.6815
+differential_evolution step 22: f(x)= -19.6815
+differential_evolution step 23: f(x)= -19.6815
+differential_evolution step 24: f(x)= -19.6815
+differential_evolution step 25: f(x)= -19.6817
+differential_evolution step 26: f(x)= -19.6825
+differential_evolution step 27: f(x)= -19.6837
+differential_evolution step 28: f(x)= -19.6837
+differential_evolution step 29: f(x)= -19.6837
+differential_evolution step 30: f(x)= -19.6837
+differential_evolution step 31: f(x)= -19.6837
+differential_evolution step 32: f(x)= -19.6837
+differential_evolution step 33: f(x)= -19.6837
+differential_evolution step 34: f(x)= -19.6839
+differential_evolution step 35: f(x)= -19.6839
+differential_evolution step 36: f(x)= -19.6839
+differential_evolution step 37: f(x)= -19.6839
+w ,lowerLimit, upperLimit are 0.09372687105062205 57 114
+w ,lowerLimit, upperLimit are 0.052869784690245517 109 192
+w ,lowerLimit, upperLimit are 0.029312900259537908 111 186
+the bounds are 
+[(0.0, 0.1), (0.0, 0.1), (0.0, 0.1), (0.0, 127.0), (0.0, 127.0), (0.0, 127.0), (128.0, 255.0), (128.0, 255.0), (128.0, 255.0)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -20.0113
+differential_evolution step 2: f(x)= -20.0606
+differential_evolution step 3: f(x)= -20.0698
+differential_evolution step 4: f(x)= -20.2038
+differential_evolution step 5: f(x)= -20.2575
+differential_evolution step 6: f(x)= -20.3808
+differential_evolution step 7: f(x)= -20.4092
+differential_evolution step 8: f(x)= -20.4092
+differential_evolution step 9: f(x)= -20.4092
+differential_evolution step 10: f(x)= -20.4092
+differential_evolution step 11: f(x)= -20.4092
+differential_evolution step 12: f(x)= -20.4392
+differential_evolution step 13: f(x)= -20.4392
+differential_evolution step 14: f(x)= -20.4392
+differential_evolution step 15: f(x)= -20.4751
+differential_evolution step 16: f(x)= -20.4751
+differential_evolution step 17: f(x)= -20.4751
+differential_evolution step 18: f(x)= -20.4751
+differential_evolution step 19: f(x)= -20.4776
+differential_evolution step 20: f(x)= -20.4799
+differential_evolution step 21: f(x)= -20.4799
+differential_evolution step 22: f(x)= -20.4799
+differential_evolution step 23: f(x)= -20.4799
+differential_evolution step 24: f(x)= -20.4799
+differential_evolution step 25: f(x)= -20.4801
+differential_evolution step 26: f(x)= -20.4801
+differential_evolution step 27: f(x)= -20.4801
+differential_evolution step 28: f(x)= -20.4802
+differential_evolution step 29: f(x)= -20.4802
+differential_evolution step 30: f(x)= -20.4802
+differential_evolution step 31: f(x)= -20.4803
+differential_evolution step 32: f(x)= -20.4803
+w ,lowerLimit, upperLimit are 0.09704213670256455 49 132
+w ,lowerLimit, upperLimit are 0.023785250480416444 63 206
+w ,lowerLimit, upperLimit are 0.028467065003607284 61 168
