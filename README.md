@@ -28,7 +28,7 @@
  - In Model2, s1 and s2 are also considered as variables and will be determined by DE Algo
  - In Model3, Objective Function is changed to Entropy + Variance (within Lower and Upper Limits)
  - We showed the results for Images Given In the [research paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7571849&tag=1)
- - We applied algorithm to a [Milk DataSet](http://amandaduarte.com.br/turbid/turbid/Milk.zip) given in [Another research paper](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf)
+ - We applied algo on a [Milk DataSet](http://amandaduarte.com.br/turbid/turbid/Milk.zip) given in [Another research paper](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf)
  - We proposed a modification to Objective Function To improve results on this dataset
  - We performed grid search to determine the best parameters
  - We applied the algo on different images and compared the PSNR ratio with subjective ratings by calculating the correlation between them.
