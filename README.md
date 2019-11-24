@@ -21,6 +21,9 @@
   `pip3 install -r requiremnts.txt`
  
  ## Usage   
+ - Contrast Stretching Required 3 inputs 
+ - We tried three models in this project
+ - Model1 is where we use s1 = 0, s2 = 255, r1,r2 detere 
  - In UWIEf_MODEL1.ipynb the algorithm specified in the paper has been Implemented. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
  - The UWIEf_MODEL2.py code is a different method where optimal values (Lower_Limit(r1), Upper_Limit(r2), s1, s2) for contrast stretching are determined by Differential Evolution Algo unlike in the first case where we fix s1 as 0 and s2 as 255. This takes input from PaperImages and outputs the enhanced images. We placed the resulting images in UWIEf_MODEL2OutputPaperImages folder. This code is run on ADA since it needs multiprocessing for DE Algo.
  - The folder TurbidityDataSetInputImages contains [images](http://amandaduarte.com.br/turbid/turbid/Milk.zip) used in the [Research paper](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf).
