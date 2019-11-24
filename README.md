@@ -22,7 +22,7 @@
  
  ## Usage   
  - In UWIEf_MODEL1.ipynb the algorithm specified in the paper has been Implemented. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
- - In s1s2underWaterIEfinalVersion.py ,the code is used to 
+ - The s1s2underWaterIEfinalVersion.py code is a different method where optimal values (Lower_Limit(r1), Upper_Limit(r2), s1, s2) for contrast stretching are determined by Differential Evolution Algo unlike in the first case where we fix s1 as 0 and s2 as 255
  - Open UWIEf.ipynb for UWIE algorithm.
  - To create SMCSVM object use:   
    `clf = SMCSVM()`
