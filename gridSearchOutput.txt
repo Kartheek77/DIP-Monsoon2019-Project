@@ -1,0 +1,2194 @@
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27253311210606457 95 126
+w ,lowerLimit, upperLimit are 0.3889728880759995 159 177
+w ,lowerLimit, upperLimit are 0.07000915285334983 110 164
+mutation,recombination values are  0.1 0.1
+ObjValue is  64.7155271000741
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2720588108824993 95 126
+w ,lowerLimit, upperLimit are 0.028678773068632757 122 209
+w ,lowerLimit, upperLimit are 0.37017640567352833 130 143
+mutation,recombination values are  0.1 0.2
+ObjValue is  65.30394111670536
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27256736028255996 95 126
+w ,lowerLimit, upperLimit are 0.36125085334556634 157 179
+w ,lowerLimit, upperLimit are 0.4047325044535362 132 142
+mutation,recombination values are  0.1 0.3
+ObjValue is  65.64322268209901
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2722743977986259 95 126
+w ,lowerLimit, upperLimit are 0.06326999387142687 130 203
+w ,lowerLimit, upperLimit are 0.44814448417314967 134 139
+mutation,recombination values are  0.1 0.4
+ObjValue is  65.82568178119897
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27272868017259055 95 126
+w ,lowerLimit, upperLimit are 0.018717994099524154 119 212
+w ,lowerLimit, upperLimit are 0.06841739348980305 109 164
+mutation,recombination values are  0.1 0.5
+ObjValue is  63.73591774408438
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2721829061402038 95 126
+w ,lowerLimit, upperLimit are 0.0618274093153173 129 203
+w ,lowerLimit, upperLimit are 0.022550994410812097 101 174
+mutation,recombination values are  0.1 0.6
+ObjValue is  63.22288895224131
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2720279300110101 95 126
+w ,lowerLimit, upperLimit are 0.09062665671778788 133 199
+w ,lowerLimit, upperLimit are 0.2897444254534965 127 148
+mutation,recombination values are  0.1 0.7
+ObjValue is  67.2693083898251
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2718551629074495 95 126
+w ,lowerLimit, upperLimit are 0.3745811036999751 158 178
+w ,lowerLimit, upperLimit are 0.31936589522340286 128 146
+mutation,recombination values are  0.1 0.8
+ObjValue is  66.20767353825873
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.272502760408266 95 126
+w ,lowerLimit, upperLimit are 0.2739641777826001 150 185
+w ,lowerLimit, upperLimit are 0.19452762793581915 122 154
+mutation,recombination values are  0.1 0.9
+ObjValue is  67.23822586739885
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27229970115699337 95 126
+w ,lowerLimit, upperLimit are 0.2515868499160164 148 187
+w ,lowerLimit, upperLimit are 0.36034069635212695 130 144
+mutation,recombination values are  0.2 0.1
+ObjValue is  66.87904203121629
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27225767609428414 95 126
+w ,lowerLimit, upperLimit are 0.07708308710171557 132 201
+w ,lowerLimit, upperLimit are 0.02144013166965303 100 174
+mutation,recombination values are  0.2 0.2
+ObjValue is  63.41730715434293
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2730266744693216 95 126
+w ,lowerLimit, upperLimit are 0.16497395468965984 141 193
+w ,lowerLimit, upperLimit are 0.03800028149497611 104 169
+mutation,recombination values are  0.2 0.3
+ObjValue is  64.93979036277861
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27212526350421745 95 126
+w ,lowerLimit, upperLimit are 0.20904737470140905 145 190
+w ,lowerLimit, upperLimit are 0.02205752362017907 100 174
+mutation,recombination values are  0.2 0.4
+ObjValue is  63.84395046259853
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.272109268376828 95 126
+w ,lowerLimit, upperLimit are 0.298854558505645 152 184
+w ,lowerLimit, upperLimit are 0.22141438483615142 123 152
+mutation,recombination values are  0.2 0.5
+ObjValue is  67.16770973096429
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27310105224466097 95 126
+w ,lowerLimit, upperLimit are 0.0894285112546142 133 199
+w ,lowerLimit, upperLimit are 0.0969142407068021 113 161
+mutation,recombination values are  0.2 0.6
+ObjValue is  66.35707878392029
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27305749991771766 95 126
+w ,lowerLimit, upperLimit are 0.27957993454908164 151 185
+w ,lowerLimit, upperLimit are 0.3969565732765713 132 142
+mutation,recombination values are  0.2 0.7
+ObjValue is  66.31682242863114
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2730495355988164 95 126
+w ,lowerLimit, upperLimit are 0.15929366566122455 141 193
+w ,lowerLimit, upperLimit are 0.20108006118605476 122 153
+mutation,recombination values are  0.2 0.8
+ObjValue is  67.69021640396826
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27186509861906233 95 126
+w ,lowerLimit, upperLimit are 0.44739217620928007 163 172
+w ,lowerLimit, upperLimit are 0.11648894859426775 115 159
+mutation,recombination values are  0.2 0.9
+ObjValue is  65.07169981096176
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2718772540490981 95 126
+w ,lowerLimit, upperLimit are 0.35274162985252955 156 180
+w ,lowerLimit, upperLimit are 0.047218067516210216 106 167
+mutation,recombination values are  0.3 0.1
+ObjValue is  64.39026325224191
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2716819194558029 95 126
+w ,lowerLimit, upperLimit are 0.3347395033616204 155 181
+w ,lowerLimit, upperLimit are 0.07942382043323054 111 163
+mutation,recombination values are  0.3 0.2
+ObjValue is  65.42546367754974
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2726820226367006 95 126
+w ,lowerLimit, upperLimit are 0.3191237798778398 154 182
+w ,lowerLimit, upperLimit are 0.05035049748105877 107 167
+mutation,recombination values are  0.3 0.3
+ObjValue is  64.72365738273027
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27262727691947775 95 126
+w ,lowerLimit, upperLimit are 0.16294690879707063 141 193
+w ,lowerLimit, upperLimit are 0.2967868852848129 127 147
+mutation,recombination values are  0.3 0.4
+ObjValue is  67.58343245696905
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2716347463844487 95 126
+w ,lowerLimit, upperLimit are 0.340116814097351 155 181
+w ,lowerLimit, upperLimit are 0.09154735394859145 112 161
+mutation,recombination values are  0.3 0.5
+ObjValue is  65.71702798011181
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27256097645180377 95 126
+w ,lowerLimit, upperLimit are 0.23289396279566899 147 188
+w ,lowerLimit, upperLimit are 0.17538982786769758 120 155
+mutation,recombination values are  0.3 0.6
+ObjValue is  67.35805635426561
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27254158267127054 95 126
+w ,lowerLimit, upperLimit are 0.03788519144636507 125 207
+w ,lowerLimit, upperLimit are 0.19447053193166516 122 154
+mutation,recombination values are  0.3 0.7
+ObjValue is  66.28387331304643
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27223724201051924 95 126
+w ,lowerLimit, upperLimit are 0.004964539153844705 110 219
+w ,lowerLimit, upperLimit are 0.12359730734280479 116 158
+mutation,recombination values are  0.3 0.8
+ObjValue is  63.585308820691296
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2729979351564945 95 126
+w ,lowerLimit, upperLimit are 0.25541751115950784 149 187
+w ,lowerLimit, upperLimit are 0.317463757463196 128 146
+mutation,recombination values are  0.3 0.9
+ObjValue is  67.18834970002898
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2719744986825937 95 126
+w ,lowerLimit, upperLimit are 0.017414557263475072 118 212
+w ,lowerLimit, upperLimit are 0.4165600094303048 133 141
+mutation,recombination values are  0.4 0.1
+ObjValue is  64.25382180914272
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27256030321037933 95 126
+w ,lowerLimit, upperLimit are 0.32850602065223605 154 181
+w ,lowerLimit, upperLimit are 0.44660018618430286 134 139
+mutation,recombination values are  0.4 0.2
+ObjValue is  65.73680944570306
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2721596219397708 95 126
+w ,lowerLimit, upperLimit are 0.2445515778760364 148 187
+w ,lowerLimit, upperLimit are 0.212723446081799 123 153
+mutation,recombination values are  0.4 0.3
+ObjValue is  67.43655628709735
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.271723496700917 95 126
+w ,lowerLimit, upperLimit are 0.11562492781970397 136 197
+w ,lowerLimit, upperLimit are 0.24138623712208485 124 151
+mutation,recombination values are  0.4 0.4
+ObjValue is  67.59560457919238
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2724005768333353 95 126
+w ,lowerLimit, upperLimit are 0.1351169784143914 138 195
+w ,lowerLimit, upperLimit are 0.2585558077573044 125 150
+mutation,recombination values are  0.4 0.5
+ObjValue is  67.68123303343063
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2719772194123847 95 126
+w ,lowerLimit, upperLimit are 0.09735551456791597 134 198
+w ,lowerLimit, upperLimit are 0.2363896944998352 124 151
+mutation,recombination values are  0.4 0.6
+ObjValue is  67.4761742589861
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27176124560098336 95 126
+w ,lowerLimit, upperLimit are 0.24894945551616016 148 187
+w ,lowerLimit, upperLimit are 0.3613925940224202 130 144
+mutation,recombination values are  0.4 0.7
+ObjValue is  66.87904203121629
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2723143473152375 95 126
+w ,lowerLimit, upperLimit are 0.03287111231572304 124 208
+w ,lowerLimit, upperLimit are 0.13938800190541856 117 157
+mutation,recombination values are  0.4 0.8
+ObjValue is  65.77392486994731
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27211447448461423 95 126
+w ,lowerLimit, upperLimit are 0.21198031367197176 145 190
+w ,lowerLimit, upperLimit are 0.20178311999120513 122 153
+mutation,recombination values are  0.4 0.9
+ObjValue is  67.6121743979439
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27167072559780403 95 126
+w ,lowerLimit, upperLimit are 0.11929101987869058 137 196
+w ,lowerLimit, upperLimit are 0.24662623131393385 125 150
+mutation,recombination values are  0.5 0.1
+ObjValue is  67.63778332930028
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2720802869242063 95 126
+w ,lowerLimit, upperLimit are 0.08582275672769718 133 200
+w ,lowerLimit, upperLimit are 0.1941922149679837 122 154
+mutation,recombination values are  0.5 0.2
+ObjValue is  67.27212167654626
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2719157336648384 95 126
+w ,lowerLimit, upperLimit are 0.35459367902526007 156 179
+w ,lowerLimit, upperLimit are 0.13010966642293875 116 158
+mutation,recombination values are  0.5 0.3
+ObjValue is  66.08962832967984
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27196320528882484 95 126
+w ,lowerLimit, upperLimit are 0.38330552943838325 158 177
+w ,lowerLimit, upperLimit are 0.08218236773933302 111 162
+mutation,recombination values are  0.5 0.4
+ObjValue is  65.03933668619504
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27295995765245123 95 126
+w ,lowerLimit, upperLimit are 0.08914818480576439 133 199
+w ,lowerLimit, upperLimit are 0.12404787936508875 116 158
+mutation,recombination values are  0.5 0.5
+ObjValue is  66.84057348652601
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27283181860394806 95 126
+w ,lowerLimit, upperLimit are 0.10570497883016462 135 198
+w ,lowerLimit, upperLimit are 0.2678293551461702 126 149
+mutation,recombination values are  0.5 0.6
+ObjValue is  67.47186669671333
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27290630255213183 95 126
+w ,lowerLimit, upperLimit are 0.2320118847045023 147 188
+w ,lowerLimit, upperLimit are 0.1055189753951525 114 160
+mutation,recombination values are  0.5 0.7
+ObjValue is  66.6719284892434
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2715831398066526 95 126
+w ,lowerLimit, upperLimit are 0.13802842299071408 139 195
+w ,lowerLimit, upperLimit are 0.16447844960617092 119 156
+mutation,recombination values are  0.5 0.8
+ObjValue is  67.46946194439685
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27297128316653435 95 126
+w ,lowerLimit, upperLimit are 0.14821943513659958 140 194
+w ,lowerLimit, upperLimit are 0.3932997057183386 131 142
+mutation,recombination values are  0.5 0.9
+ObjValue is  66.92710771389787
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+differential_evolution step 35: f(x)= -25.6312
+differential_evolution step 36: f(x)= -25.6312
+differential_evolution step 37: f(x)= -25.6312
+differential_evolution step 38: f(x)= -25.6312
+differential_evolution step 39: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27313992795296166 95 126
+w ,lowerLimit, upperLimit are 0.31873347236433514 154 182
+w ,lowerLimit, upperLimit are 0.29500396610443513 127 147
+mutation,recombination values are  0.6 0.1
+ObjValue is  66.81301259552004
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27240136243680296 95 126
+w ,lowerLimit, upperLimit are 0.08281216350513079 133 200
+w ,lowerLimit, upperLimit are 0.021065814779605008 100 174
+mutation,recombination values are  0.6 0.2
+ObjValue is  63.52718753896905
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27197270735355733 95 126
+w ,lowerLimit, upperLimit are 0.038131802165769446 125 207
+w ,lowerLimit, upperLimit are 0.19060012075928054 121 154
+mutation,recombination values are  0.6 0.3
+ObjValue is  66.24563348847428
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2715809387006713 95 126
+w ,lowerLimit, upperLimit are 0.32239681453798225 154 182
+w ,lowerLimit, upperLimit are 0.19429858003698644 122 154
+mutation,recombination values are  0.6 0.4
+ObjValue is  66.89650674475108
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2717922096132168 95 126
+w ,lowerLimit, upperLimit are 0.15349818910223378 140 194
+w ,lowerLimit, upperLimit are 0.3284559991791668 128 146
+mutation,recombination values are  0.6 0.5
+ObjValue is  67.47551492812228
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2727932036432175 95 126
+w ,lowerLimit, upperLimit are 0.21424521593977386 145 189
+w ,lowerLimit, upperLimit are 0.09873391513855906 113 161
+mutation,recombination values are  0.6 0.6
+ObjValue is  66.56727778293393
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27169584389445545 95 126
+w ,lowerLimit, upperLimit are 0.4367286206046227 162 173
+w ,lowerLimit, upperLimit are 0.39204082383202515 131 142
+mutation,recombination values are  0.6 0.7
+ObjValue is  65.05425181414171
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.272482330394791 95 126
+w ,lowerLimit, upperLimit are 0.3233075518856374 154 182
+w ,lowerLimit, upperLimit are 0.2094452014474347 123 153
+mutation,recombination values are  0.6 0.8
+ObjValue is  66.93045918390527
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27276524201218466 95 126
+w ,lowerLimit, upperLimit are 0.39226760837534463 159 177
+w ,lowerLimit, upperLimit are 0.19605165644572584 122 154
+mutation,recombination values are  0.6 0.9
+ObjValue is  66.2681621454382
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+differential_evolution step 35: f(x)= -25.6312
+differential_evolution step 36: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27204490486627597 95 126
+w ,lowerLimit, upperLimit are 0.37310100966730086 157 178
+w ,lowerLimit, upperLimit are 0.059961208623583895 108 165
+mutation,recombination values are  0.7 0.1
+ObjValue is  64.59081701842594
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6157
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2725703250423733 95 126
+w ,lowerLimit, upperLimit are 0.43960509117290436 163 173
+w ,lowerLimit, upperLimit are 0.4018670229408608 132 142
+mutation,recombination values are  0.7 0.2
+ObjValue is  64.87634940007676
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27231052625254937 95 126
+w ,lowerLimit, upperLimit are 0.29097211075659385 151 184
+w ,lowerLimit, upperLimit are 0.3192551454585848 128 146
+mutation,recombination values are  0.7 0.3
+ObjValue is  66.94278131016749
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6157
+differential_evolution step 4: f(x)= -25.6157
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2726666371388245 95 126
+w ,lowerLimit, upperLimit are 0.047294520782530464 127 206
+w ,lowerLimit, upperLimit are 0.012698720171880923 97 178
+mutation,recombination values are  0.7 0.4
+ObjValue is  61.98302524163255
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27296154388733507 95 126
+w ,lowerLimit, upperLimit are 0.31762643608813085 153 182
+w ,lowerLimit, upperLimit are 0.23590076920471775 124 151
+mutation,recombination values are  0.7 0.5
+ObjValue is  66.9978794905949
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2728553555708719 95 126
+w ,lowerLimit, upperLimit are 0.022171473757606808 120 210
+w ,lowerLimit, upperLimit are 0.41672225876369373 133 141
+mutation,recombination values are  0.7 0.6
+ObjValue is  64.5929045905691
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27168724637707753 95 126
+w ,lowerLimit, upperLimit are 0.09589496579718751 134 199
+w ,lowerLimit, upperLimit are 0.02870839730096089 102 172
+mutation,recombination values are  0.7 0.7
+ObjValue is  64.06602451379612
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2716391915908641 95 126
+w ,lowerLimit, upperLimit are 0.2787876719226482 151 185
+w ,lowerLimit, upperLimit are 0.2889382672225546 127 148
+mutation,recombination values are  0.7 0.8
+ObjValue is  67.14869042157693
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2719428910212921 95 126
+w ,lowerLimit, upperLimit are 0.24982616090350135 148 187
+w ,lowerLimit, upperLimit are 0.3406375443620258 129 145
+mutation,recombination values are  0.7 0.9
+ObjValue is  67.05150975084771
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+differential_evolution step 35: f(x)= -25.6312
+differential_evolution step 36: f(x)= -25.6312
+differential_evolution step 37: f(x)= -25.6312
+differential_evolution step 38: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2728885860851565 95 126
+w ,lowerLimit, upperLimit are 0.25196132156116685 148 187
+w ,lowerLimit, upperLimit are 0.2233027548283406 123 152
+mutation,recombination values are  0.8 0.1
+ObjValue is  67.45934214959667
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27256304206461257 95 126
+w ,lowerLimit, upperLimit are 0.08960716623654372 133 199
+w ,lowerLimit, upperLimit are 0.25731437910046684 125 150
+mutation,recombination values are  0.8 0.2
+ObjValue is  67.38094026479371
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27265312089476873 95 126
+w ,lowerLimit, upperLimit are 0.10792994798971628 135 197
+w ,lowerLimit, upperLimit are 0.05588113765485139 108 166
+mutation,recombination values are  0.8 0.3
+ObjValue is  65.52956908767025
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27172496601203094 95 126
+w ,lowerLimit, upperLimit are 0.02299536101552857 120 210
+w ,lowerLimit, upperLimit are 0.4012768511760423 132 142
+mutation,recombination values are  0.8 0.4
+ObjValue is  64.74936865670205
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2729304979287924 95 126
+w ,lowerLimit, upperLimit are 0.2655634735744133 150 186
+w ,lowerLimit, upperLimit are 0.13026711808016778 116 158
+mutation,recombination values are  0.8 0.5
+ObjValue is  66.81520763754278
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2721073398774736 95 126
+w ,lowerLimit, upperLimit are 0.050364807269187545 127 205
+w ,lowerLimit, upperLimit are 0.04265846486635333 105 168
+mutation,recombination values are  0.8 0.6
+ObjValue is  64.07605578037438
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.272464215213789 95 126
+w ,lowerLimit, upperLimit are 0.31662553781486324 153 182
+w ,lowerLimit, upperLimit are 0.09159452881901081 112 161
+mutation,recombination values are  0.8 0.7
+ObjValue is  65.86098017427308
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27221944768121276 95 126
+w ,lowerLimit, upperLimit are 0.16975355802476005 142 192
+w ,lowerLimit, upperLimit are 0.3259303987710629 128 146
+mutation,recombination values are  0.8 0.8
+ObjValue is  67.45743141795684
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27158447063425256 95 126
+w ,lowerLimit, upperLimit are 0.12989502145198617 138 195
+w ,lowerLimit, upperLimit are 0.11952654533131694 115 159
+mutation,recombination values are  0.8 0.9
+ObjValue is  66.99472802784223
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+differential_evolution step 35: f(x)= -25.6312
+differential_evolution step 36: f(x)= -25.6312
+differential_evolution step 37: f(x)= -25.6312
+differential_evolution step 38: f(x)= -25.6312
+differential_evolution step 39: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27227946120995977 95 126
+w ,lowerLimit, upperLimit are 0.4145303407434062 161 175
+w ,lowerLimit, upperLimit are 0.14638264738714468 118 157
+mutation,recombination values are  0.9 0.1
+ObjValue is  65.71978692252698
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6157
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+differential_evolution step 32: f(x)= -25.6312
+differential_evolution step 33: f(x)= -25.6312
+differential_evolution step 34: f(x)= -25.6312
+differential_evolution step 35: f(x)= -25.6312
+differential_evolution step 36: f(x)= -25.6312
+differential_evolution step 37: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2724403073596572 95 126
+w ,lowerLimit, upperLimit are 0.1561952404095989 140 193
+w ,lowerLimit, upperLimit are 0.25151548317034755 125 150
+mutation,recombination values are  0.9 0.2
+ObjValue is  67.7125585745594
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27206523036662716 95 126
+w ,lowerLimit, upperLimit are 0.12456631009279878 137 196
+w ,lowerLimit, upperLimit are 0.11999231017295511 115 159
+mutation,recombination values are  0.9 0.3
+ObjValue is  66.95127832371188
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+differential_evolution step 28: f(x)= -25.6312
+differential_evolution step 29: f(x)= -25.6312
+differential_evolution step 30: f(x)= -25.6312
+differential_evolution step 31: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.2716254900309225 95 126
+w ,lowerLimit, upperLimit are 0.1481908877039016 140 194
+w ,lowerLimit, upperLimit are 0.09234107693543325 112 161
+mutation,recombination values are  0.9 0.4
+ObjValue is  66.60415788274179
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+differential_evolution step 27: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27276210309487947 95 126
+w ,lowerLimit, upperLimit are 0.004493358232816713 110 219
+w ,lowerLimit, upperLimit are 0.06104077645804176 108 165
+mutation,recombination values are  0.9 0.5
+ObjValue is  62.22354146248405
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+differential_evolution step 26: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27305131092228874 95 126
+w ,lowerLimit, upperLimit are 0.4384368916366649 163 173
+w ,lowerLimit, upperLimit are 0.08309768423065408 111 162
+mutation,recombination values are  0.9 0.6
+ObjValue is  64.50574789592532
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+differential_evolution step 20: f(x)= -25.6312
+differential_evolution step 21: f(x)= -25.6312
+differential_evolution step 22: f(x)= -25.6312
+differential_evolution step 23: f(x)= -25.6312
+differential_evolution step 24: f(x)= -25.6312
+differential_evolution step 25: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27164177990266986 95 126
+w ,lowerLimit, upperLimit are 0.4107064836246327 160 175
+w ,lowerLimit, upperLimit are 0.009091921322071317 95 181
+mutation,recombination values are  0.9 0.7
+ObjValue is  61.00700062118399
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6157
+differential_evolution step 2: f(x)= -25.6157
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27237349721276394 95 126
+w ,lowerLimit, upperLimit are 0.14185151314712544 139 194
+w ,lowerLimit, upperLimit are 0.4038591396492589 132 142
+mutation,recombination values are  0.9 0.8
+ObjValue is  66.7614646271308
+the bounds are 
+[(0.0, 0.45), (0.0, 0.45), (0.0, 0.45)]
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.6312
+differential_evolution step 2: f(x)= -25.6312
+differential_evolution step 3: f(x)= -25.6312
+differential_evolution step 4: f(x)= -25.6312
+differential_evolution step 5: f(x)= -25.6312
+differential_evolution step 6: f(x)= -25.6312
+differential_evolution step 7: f(x)= -25.6312
+differential_evolution step 8: f(x)= -25.6312
+differential_evolution step 9: f(x)= -25.6312
+differential_evolution step 10: f(x)= -25.6312
+differential_evolution step 11: f(x)= -25.6312
+differential_evolution step 12: f(x)= -25.6312
+differential_evolution step 13: f(x)= -25.6312
+differential_evolution step 14: f(x)= -25.6312
+differential_evolution step 15: f(x)= -25.6312
+differential_evolution step 16: f(x)= -25.6312
+differential_evolution step 17: f(x)= -25.6312
+differential_evolution step 18: f(x)= -25.6312
+differential_evolution step 19: f(x)= -25.6312
+w ,lowerLimit, upperLimit are 0.27239582892148817 95 126
+w ,lowerLimit, upperLimit are 0.2964287024304746 152 184
+w ,lowerLimit, upperLimit are 0.05109241274931586 107 167
+mutation,recombination values are  0.9 0.9
+ObjValue is  64.93812206728998
+ObjFuncValueForEachImage
+[[ 0.          0.1         0.2         0.3         0.4         0.5
+   0.6         0.7         0.8         0.9       ]
+ [ 0.1        64.7155271  65.30394112 65.64322268 65.82568178 63.73591774
+  63.22288895 67.26930839 66.20767354 67.23822587]
+ [ 0.2        66.87904203 63.41730715 64.93979036 63.84395046 67.16770973
+  66.35707878 66.31682243 67.6902164  65.07169981]
+ [ 0.3        64.39026325 65.42546368 64.72365738 67.58343246 65.71702798
+  67.35805635 66.28387331 63.58530882 67.1883497 ]
+ [ 0.4        64.25382181 65.73680945 67.43655629 67.59560458 67.68123303
+  67.47617426 66.87904203 65.77392487 67.6121744 ]
+ [ 0.5        67.63778333 67.27212168 66.08962833 65.03933669 66.84057349
+  67.4718667  66.67192849 67.46946194 66.92710771]
+ [ 0.6        66.8130126  63.52718754 66.24563349 66.89650674 67.47551493
+  66.56727778 65.05425181 66.93045918 66.26816215]
+ [ 0.7        64.59081702 64.8763494  66.94278131 61.98302524 66.99787949
+  64.59290459 64.06602451 67.14869042 67.05150975]
+ [ 0.8        67.45934215 67.38094026 65.52956909 64.74936866 66.81520764
+  64.07605578 65.86098017 67.45743142 66.99472803]
+ [ 0.9        65.71978692 67.71255857 66.95127832 66.60415788 62.22354146
+  64.5057479  61.00700062 66.76146463 64.93812207]]
