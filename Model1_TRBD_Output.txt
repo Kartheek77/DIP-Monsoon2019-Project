@@ -1,0 +1,145 @@
+Image Number:  2
+SDI Value for this Image
+0.049983931385682724
+starting the DEAlgo
+differential_evolution step 1: f(x)= -33.7032
+w,lowerLimit,upperLimit are 0.10154693102939778 55 143
+w,lowerLimit,upperLimit are 0.07070781856554043 52 144
+w,lowerLimit,upperLimit are 0.046157550530656344 37 143
+Image Number:  3
+SDI Value for this Image
+0.06476939624495975
+starting the DEAlgo
+differential_evolution step 1: f(x)= -32.6886
+w,lowerLimit,upperLimit are 0.1085691775954844 61 140
+w,lowerLimit,upperLimit are 0.08328788363499878 60 141
+w,lowerLimit,upperLimit are 0.0719989070695905 51 136
+Image Number:  4
+SDI Value for this Image
+0.08688620169182333
+starting the DEAlgo
+differential_evolution step 1: f(x)= -32.0325
+w,lowerLimit,upperLimit are 0.062440510250602044 54 146
+w,lowerLimit,upperLimit are 0.08448036706542134 66 138
+w,lowerLimit,upperLimit are 0.09876530238046324 63 128
+Image Number:  5
+SDI Value for this Image
+0.11718951181306655
+starting the DEAlgo
+differential_evolution step 1: f(x)= -31.0769
+w,lowerLimit,upperLimit are 0.049774651077215404 56 147
+w,lowerLimit,upperLimit are 0.0758616880026095 69 138
+w,lowerLimit,upperLimit are 0.08238973355267706 65 129
+Image Number:  6
+SDI Value for this Image
+0.16771851444891706
+starting the DEAlgo
+differential_evolution step 1: f(x)= -30.1431
+w,lowerLimit,upperLimit are 0.06538056017135951 67 140
+w,lowerLimit,upperLimit are 0.07922651698142316 75 135
+w,lowerLimit,upperLimit are 0.06837348943995289 70 127
+Image Number:  7
+SDI Value for this Image
+0.2040896532783367
+starting the DEAlgo
+differential_evolution step 1: f(x)= -29.6004
+w,lowerLimit,upperLimit are 0.07244523062644881 71 138
+w,lowerLimit,upperLimit are 0.07123138758328157 76 135
+w,lowerLimit,upperLimit are 0.11396101638307471 79 121
+Image Number:  8
+SDI Value for this Image
+0.28820972073650714
+starting the DEAlgo
+differential_evolution step 1: f(x)= -28.52
+w,lowerLimit,upperLimit are 0.041681709428947694 69 138
+w,lowerLimit,upperLimit are 0.10371660441486219 82 127
+w,lowerLimit,upperLimit are 0.09169395684760417 80 118
+Image Number:  9
+SDI Value for this Image
+0.3122450592706946
+starting the DEAlgo
+differential_evolution step 1: f(x)= -27.9488
+w,lowerLimit,upperLimit are 0.030915178331902132 71 143
+w,lowerLimit,upperLimit are 0.0803452231104885 82 130
+w,lowerLimit,upperLimit are 0.11828359958750427 85 116
+Image Number:  10
+SDI Value for this Image
+0.3877474781429518
+starting the DEAlgo
+differential_evolution step 1: f(x)= -26.7758
+w,lowerLimit,upperLimit are 0.04486587345772927 74 132
+w,lowerLimit,upperLimit are 0.03409430220323326 76 131
+w,lowerLimit,upperLimit are 0.20364205464755483 90 108
+Image Number:  11
+SDI Value for this Image
+0.46822060945863686
+starting the DEAlgo
+differential_evolution step 1: f(x)= -25.2168
+w,lowerLimit,upperLimit are 0.05450989940795464 77 127
+w,lowerLimit,upperLimit are 0.07388210944769363 82 124
+w,lowerLimit,upperLimit are 0.16903996494722787 89 107
+Image Number:  12
+SDI Value for this Image
+0.5235377616673733
+starting the DEAlgo
+differential_evolution step 1: f(x)= -24.5322
+w,lowerLimit,upperLimit are 0.041761204610500785 79 128
+w,lowerLimit,upperLimit are 0.030148442971864642 80 127
+w,lowerLimit,upperLimit are 0.1297762857968658 90 109
+Image Number:  13
+SDI Value for this Image
+0.6333099566090191
+starting the DEAlgo
+differential_evolution step 1: f(x)= -22.2889
+w,lowerLimit,upperLimit are 0.03915026892515869 82 126
+w,lowerLimit,upperLimit are 0.023790075078351264 82 125
+w,lowerLimit,upperLimit are 0.12277638243410786 93 109
+Image Number:  14
+SDI Value for this Image
+0.6846390260529265
+starting the DEAlgo
+differential_evolution step 1: f(x)= -21.6391
+w,lowerLimit,upperLimit are 0.025879076343927 80 130
+w,lowerLimit,upperLimit are 0.02639404440276663 84 123
+w,lowerLimit,upperLimit are 0.09782199370915226 94 109
+Image Number:  15
+SDI Value for this Image
+0.7792840367607566
+starting the DEAlgo
+differential_evolution step 1: f(x)= -19.8797
+w,lowerLimit,upperLimit are 0.03303559706791925 84 123
+w,lowerLimit,upperLimit are 0.04201694570722228 87 119
+w,lowerLimit,upperLimit are 0.05666367348121781 92 108
+Image Number:  16
+SDI Value for this Image
+0.8252933712408735
+starting the DEAlgo
+differential_evolution step 1: f(x)= -19.2162
+w,lowerLimit,upperLimit are 0.04828452735312119 88 121
+w,lowerLimit,upperLimit are 0.031033214114785657 87 119
+w,lowerLimit,upperLimit are 0.024644505058778188 92 108
+Image Number:  17
+SDI Value for this Image
+0.8874702777665673
+starting the DEAlgo
+differential_evolution step 1: f(x)= -18.0462
+w,lowerLimit,upperLimit are 0.008409121959945115 81 132
+w,lowerLimit,upperLimit are 0.008570968453082195 84 122
+w,lowerLimit,upperLimit are 0.08072137451887434 94 107
+Image Number:  18
+SDI Value for this Image
+0.9423718743545457
+starting the DEAlgo
+differential_evolution step 1: f(x)= -17.0693
+w,lowerLimit,upperLimit are 0.03686585991234487 90 121
+w,lowerLimit,upperLimit are 0.04468166675301605 92 116
+w,lowerLimit,upperLimit are 0.09407220723182702 96 107
+Image Number:  19
+SDI Value for this Image
+1.0000000000000002
+starting the DEAlgo
+differential_evolution step 1: f(x)= -16.6883
+differential_evolution step 2: f(x)= -16.8419
+w,lowerLimit,upperLimit are 0.0038066254905602115 85 131
+w,lowerLimit,upperLimit are 0.0067277954147426655 89 122
+w,lowerLimit,upperLimit are 0.008063759899014339 96 111
