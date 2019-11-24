@@ -35,7 +35,11 @@
  - `Model3_TRBD.py` is similar to `Model1_TRBD.py`. But here we use Model3 instead. It takes input from `TurbidityDataSetInputImages` Folder.Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder   `EnhancedAndGivenImagesTurbidDataSetUsingVarianceApproach`  .  `Model3_TRBD_Output.txt` contains the shell output while running on ADA. The notebook `Model3_TRBD_RESULTS.ipynb` displays both given and enhanced images for comparision.
  - The file `gridSearch.py` contains the code for grid search. Here mutation and cross overconstants are the hyperparameters. Since generally its better to have highter population size. We fix population size as 40. Thus remaining only two hyperparameters in range 0 to 1. We choose values in steps of 0.1. We computer the objective value for (9*9 = 81) combinations. And select a combination of mutation and crossover coefficients which maximize the objective value. The ouput is `gridSearch.csv`. The file `gridSearchOutput.txt` contains shell output. Here in this file we take a sub image to make the calculation faster. Input is taken from the `PaperImages' Folder. 
  - The notebook `PSNRvsSubjectiveRatings.ipynb` is where we claculate PSNR(Peak Signal to Noise Ratio) between Given and EnhancedImages. This file takes the input images from `OtherImages` Folder. Here We calculate the correlation between PSNR ratio and Hardcoded Subjective ratings collected from 5 people. 
- - 
+ - We showed the results for Images Given In the [research paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7571849&tag=1)
+ - We applied to a DataSet given in [Another research paper](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf)
+ - We proposed a modification to Objective Function To improve results on this dataset
+ - We performed grid search to determine the best parameters
+ - We applied the algo on different images and compared the PSNR ratio with subjective ratings by calculating the correlation between them.
 
  
  
