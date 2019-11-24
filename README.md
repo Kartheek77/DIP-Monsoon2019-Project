@@ -21,7 +21,8 @@
   `pip3 install -r requiremnts.txt`
  
  ## Usage   
- - Contrast Stretching Required 3 inputs 
+ - Contrast Stretching Generally Require (r1,s1) and (r2,s2) as the input
+ - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. 
  - We tried three models in this project
  - Model1 is where we use s1 = 0, s2 = 255, r1,r2 detere 
  - In UWIEf_MODEL1.ipynb the algorithm specified in the paper has been Implemented. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
