@@ -14,7 +14,7 @@ import copy
 #read every image and then calculate the objective function value
 #append that objective function value to a list
 #plot the objective function value vs range(0,len())
-
+Resources = "TurbidityDataSetInputImages/"
 def pixelVal(pix, r1, s1, r2, s2): 
     if (0 <= pix and pix <= r1):
     	return 0.0 
@@ -238,7 +238,7 @@ TurbidMSEValueForEachImage = []
 EnhancedMSEValueForEachImage = []
 
 
-OriginalImage = cv2.imread(str(1)+".jpg")
+OriginalImage = cv2.imread(Resources+str(1)+".jpg")
 OriginalImage = cv2.cvtColor(OriginalImage, cv2.COLOR_BGR2RGB)
 plt.axis('off')
 plt.imshow(OriginalImage.astype(np.uint8))
@@ -251,7 +251,7 @@ for i in range(2,20):
 	else:
 		tempImageName = "a"+str(i)#+".jpg"
 	#read the image 
-	tempGivenImage = cv2.imread(tempImageName+".jpg")
+	tempGivenImage = cv2.imread(Resources+tempImageName+".jpg")
 	tempGivenImage = cv2.cvtColor(tempGivenImage, cv2.COLOR_BGR2RGB)
 	temp1 =0.0
 	temp2 =0.0
