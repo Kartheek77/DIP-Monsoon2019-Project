@@ -21,6 +21,8 @@
   `pip3 install -r requiremnts.txt`
  
  ## Usage   
+ - In UWIEf_MODEL1.ipynb the algorithm specified in the paper has been Implemented. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
+ - In s1s2underWaterIEfinalVersion.py ,the code is used to 
  - Open UWIEf.ipynb for UWIE algorithm.
  - To create SMCSVM object use:   
    `clf = SMCSVM()`
