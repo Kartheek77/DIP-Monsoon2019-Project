@@ -29,6 +29,8 @@
  - In 'Model3' Objective Function is changed to Entropy + Variance (within Lower and Upper Limits) 
  - UWIEf_MODEL1.ipynb implements Model1 on the Images Given in the associated research paper. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
  - UWIEf_MODEL2.py implements Models2. As more number of variable are involved in optimization problem. This need multiprocessing. Thus this file is ran on ADA. This file takes input from PaperImages and outputs the enhanced images. The Folder Model2_UWIE_OutputImages contain the images enhanced by this method. Model2_UWIE_Output.txt file contains the shell output while running on ADA
+ 
+ - Model1_TRBD.py apply's Model1 on [TurbidityDataSetImages](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf). These images are present in TurbidityDataSetInputImages Folder. This file takes input from here and outputs Enhanced Images. Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder EnhancedAndGivenImagesTurbidDataSetUsingOriginalMethod. Model1_TRBD_Output.txt contains the shell output while running on ADA
  -
  - The folder TurbidityDataSetInputImages contains [images](http://amandaduarte.com.br/turbid/turbid/Milk.zip) used in the [Research paper](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf).
  - The folder EnhancedAndGivenImagesTurbidDataSetUsingOriginalMethod contains the results of running the Original Algo On these Images. Both Given and Enhanced Images are put for comparision.
