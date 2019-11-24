@@ -209,15 +209,16 @@ def objFunctionValue(GivenImage):
 
 #mutation = np.range(0,10)
 #recombination = np.range(0,10)
-GivenImage = cv2.imread("a18.jpg")
+#GivenImage = cv2.imread("a18.jpg")
 ObjValues = np.zeros((10,10))
-#tempImageName = "UW2"
-tempImageName = "a18"
-tempGivenImage = cv2.imread(tempImageName+".jpg")
-#tempGivenImage = cv2.imread(tempImageName+".PNG")
+tempImageName = "UW2"
+#tempImageName = "a18"
+#tempGivenImage = cv2.imread("PaperImages/"+tempImageName+".jpg")
+tempGivenImage = cv2.imread("PaperImages/"+tempImageName+".PNG")
 tempGivenImage = cv2.cvtColor(tempGivenImage, cv2.COLOR_BGR2RGB)
 tempGivenImage = tempGivenImage.astype(np.float64)
-tempGivenImage = tempGivenImage[200:500,200:500,0:3]
+tempGivenImage = tempGivenImage[0:200,0:200,0:3]
+#tempGivenImage = tempGivenImage[200:500,200:500,0:3]
 #ObjFuncValueForEachImage = np.zeros(10,10)
 #ObjValues[0,0] = -1000
 for i in range(1,10):
