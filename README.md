@@ -20,7 +20,7 @@
 - Install required Python Packages   
   `pip3 install -r requiremnts.txt`
  
- ## About this project   
+ ## About the project   
  - Contrast Stretching Generally Require (r1,s1) and (r2,s2) as the input
  - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. s1 and s2 are our choice.
  - We tried Three models,
