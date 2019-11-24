@@ -22,8 +22,11 @@
  
  ## Usage   
  - Contrast Stretching Generally Require (r1,s1) and (r2,s2) as the input
- - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. 
- - We tried three models in this project
+ - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. s1 and s2 are our choice.
+ - We tried Two models,
+ - In Model1 we set s1 = 0 and s2 = 255
+ - In Model2 s1 and s2 are also considered as variables and will be determined by DE Algo
+ - In Model3 Objective Function is changed to Entropy + Variance (within Lower and Upper Limits) 
  - Model1 is where we use s1 = 0, s2 = 255, r1,r2 detere 
  - In UWIEf_MODEL1.ipynb the algorithm specified in the paper has been Implemented. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
  - The UWIEf_MODEL2.py code is a different method where optimal values (Lower_Limit(r1), Upper_Limit(r2), s1, s2) for contrast stretching are determined by Differential Evolution Algo unlike in the first case where we fix s1 as 0 and s2 as 255. This takes input from PaperImages and outputs the enhanced images. We placed the resulting images in UWIEf_MODEL2OutputPaperImages folder. This code is run on ADA since it needs multiprocessing for DE Algo.
