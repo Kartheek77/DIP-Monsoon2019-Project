@@ -32,7 +32,9 @@
  
  - Model1_TRBD.py apply's Model1 on [TurbidityDataSetImages](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf). These images are present in TurbidityDataSetInputImages Folder. This file takes input from here and outputs Enhanced Images. Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder EnhancedAndGivenImagesTurbidDataSetUsingOriginalMethod. Model1_TRBD_Output.txt contains the shell output while running on ADA. The notebook Model1_TRBD_RESULTS.ipynb displays both given and enhanced images for comparision.
  
- - Model3_TRBD.py is similar to Model1_TRBD.py. But here we use Model3 instead. It takes input from TurbidityDataSetInputImages Folder.Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder  EnhancedAndGivenImagesTurbidDataSetUsingVarianceApproach.  Model3_TRBD_Output.txt contains the shell output while running on ADA. The notebook Model3_TRBD_RESULTS.ipynb displays both given and enhanced images for comparision.
+ - `Model3_TRBD.py` is similar to `Model1_TRBD.py`. But here we use Model3 instead. It takes input from `TurbidityDataSetInputImages` Folder.Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder   `EnhancedAndGivenImagesTurbidDataSetUsingVarianceApproach`  .  `Model3_TRBD_Output.txt` contains the shell output while running on ADA. The notebook `Model3_TRBD_RESULTS.ipynb` displays both given and enhanced images for comparision.
+ 
+ - The notebook `PSNRvsSubjectiveRatings.ipynb` is where we claculate PSNR(Peak Signal to Noise Ratio) between Given and EnhancedImages. This file takes the input images from `OtherImages` Folder. Here We calculate the correlation between PSNR ratio and Hardcoded Subjective ratings collected from 5 people. 
  - 
  - To create SMCSVM object use:   
    `clf = SMCSVM()`
