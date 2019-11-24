@@ -23,7 +23,7 @@
  ## Usage   
  - Contrast Stretching Generally Require (r1,s1) and (r2,s2) as the input
  - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. s1 and s2 are our choice.
- - We tried Two models,
+ - We tried Three models,
  - In Model1 we set s1 = 0 and s2 = 255
  - In Model2 s1 and s2 are also considered as variables and will be determined by DE Algo
  - In Model3 Objective Function is changed to Entropy + Variance (within Lower and Upper Limits) 
