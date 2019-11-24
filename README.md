@@ -24,13 +24,13 @@
  - Contrast Stretching Generally Require (r1,s1) and (r2,s2) as the input
  - Here r1, r2 are determined by the Differential Evolution algorithm as specified in the research paper. s1 and s2 are our choice.
  - We tried Two models,
- - In `Model1` we set s1 = 0 and s2 = 255
- - In 'Model2' s1 and s2 are also considered as variables and will be determined by DE Algo
- - In 'Model3' Objective Function is changed to Entropy + Variance (within Lower and Upper Limits) 
- - UWIEf_MODEL1.ipynb implements Model1 on the Images Given in the associated research paper. It takes input from the PaperImages Folder and displays the given and enhanced Images in the Notebook Itself.
- - UWIEf_MODEL2.py implements Models2. As more number of variable are involved in optimization problem. This need multiprocessing. Thus this file is ran on ADA. This file takes input from PaperImages and outputs the enhanced images. The Folder Model2_UWIE_OutputImages contain the images enhanced by this method. Model2_UWIE_Output.txt file contains the shell output while running on ADA
+ - In Model1 we set s1 = 0 and s2 = 255
+ - In Model2 s1 and s2 are also considered as variables and will be determined by DE Algo
+ - In Model3 Objective Function is changed to Entropy + Variance (within Lower and Upper Limits) 
+ - `UWIEf_MODEL1.ipynb` implements Model1 on the Images Given in the associated research paper. It takes input from the `PaperImages` Folder and displays the given and enhanced Images in the Notebook Itself.
+ - `UWIEf_MODEL2.py` implements Models2. As more number of variable are involved in optimization problem. This need multiprocessing. Thus this file is ran on ADA. This file takes input from `PaperImages` and outputs the enhanced images. The Folder `Model2_UWIE_OutputImages` contain the images enhanced by this method. `Model2_UWIE_Output.txt` file contains the shell output while running on ADA
  
- - Model1_TRBD.py apply's Model1 on [TurbidityDataSetImages](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf). These images are present in TurbidityDataSetInputImages Folder. This file takes input from here and outputs Enhanced Images. Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder EnhancedAndGivenImagesTurbidDataSetUsingOriginalMethod. Model1_TRBD_Output.txt contains the shell output while running on ADA. The notebook Model1_TRBD_RESULTS.ipynb displays both given and enhanced images for comparision.
+ - `Model1_TRBD.py` apply's Model1 on [TurbidityDataSetImages](http://amandaduarte.com.br/turbid/Turbid_Dataset.pdf). These images are present in `TurbidityDataSetInputImages` Folder. This file takes input from here and outputs Enhanced Images. Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder   `EnhancedAndGivenImagesTurbidDataSetUsingOriginalMethod`. `Model1_TRBD_Output.txt` contains the shell output while running on ADA. The notebook `Model1_TRBD_RESULTS.ipynb` displays both given and enhanced images for comparision.
  
  - `Model3_TRBD.py` is similar to `Model1_TRBD.py`. But here we use Model3 instead. It takes input from `TurbidityDataSetInputImages` Folder.Since images are of large size multiprocessing is needed here. This code is also ran on ADA. The output images are in the Folder   `EnhancedAndGivenImagesTurbidDataSetUsingVarianceApproach`  .  `Model3_TRBD_Output.txt` contains the shell output while running on ADA. The notebook `Model3_TRBD_RESULTS.ipynb` displays both given and enhanced images for comparision.
  
