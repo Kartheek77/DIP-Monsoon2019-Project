@@ -36,26 +36,8 @@
  
  - The notebook `PSNRvsSubjectiveRatings.ipynb` is where we claculate PSNR(Peak Signal to Noise Ratio) between Given and EnhancedImages. This file takes the input images from `OtherImages` Folder. Here We calculate the correlation between PSNR ratio and Hardcoded Subjective ratings collected from 5 people. 
  - 
- - To create SMCSVM object use:   
-   `clf = SMCSVM()`
+- The file `gridSearch.py` contains the code for grid search. Here mutation and cross overconstants are the hyperparameters. Since generally its better to have highter population size. We fix population size as 40. Thus remaining only two hyperparameters in range 0 to 1. We choose values in steps of 0.1. We computer the objective value for (9*9 = 81) combinations. And select a combination of mutation and crossover coefficients which maximize the objective value. The ouput is `gridSearch.csv`. The file `gridSearchOutput.txt` contains shell output. Here in this file we take a sub image to make the calculation faster. Input is taken from the `PaperImages' Folder.
  
- - Pass training data and trainng labels to fit() func'tion to train the classifier.   
-   `clf.fit(train_X_data, train_y_label)`   
- 
- - You can also pass folowing parameters:
-    
-    1. C, default_value, C=10 - Penalizing factor for Slack  
-    2. kernel, default value, kernel='rbf', can also take - 'linear', 'polynomial'  for utilizing kernel tricks on Non-Linear data.   
-    3. sigma, default_value=1.0, required for 'RBF' kernel.
-    4. degree, default_value=1, degree of polynomial function used in 'polynomial' kernel.
- - To predict on testing data use:    
-   `clf.predict(test_X_data)`
- - The algorithm uses K-fold cross validation as a performance metric.
- 
- 
- ## Run tests
- 
- - To run tests, run the run_tests.ipynb file in tests directory
  
  ## References
  
